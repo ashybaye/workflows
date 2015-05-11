@@ -1,0 +1,349 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "builds/development/index.html",
+			"settings":
+			{
+				"buffer_size": 6798,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "components/sass/style.scss",
+			"settings":
+			{
+				"buffer_size": 251,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nSassBeautify:\n------------\n\n  The SassBeautify package has been successfully installed.\n  \n  Run the plugin from the command palette:\n  \n  1. Open the command palette (ctrl + shift + p)\n  2. Enter 'SassBeautify'\n  \n  Please report issues here: https://github.com/badsyntax/SassBeautify/issues\n  \n  Created by Richard Willis (badsyntax.co)\n  ",
+			"settings":
+			{
+				"buffer_size": 392,
+				"line_ending": "Windows",
+				"name": "Package Control Messages",
+				"scratch": true
+			}
+		},
+		{
+			"file": "/D/Work Documents/Tutorials/Lynda.com Courses/Ex_Files_WPW_GGB/Exercise Files/01_08/start/workflows/components/sass/style.scss",
+			"settings":
+			{
+				"buffer_size": 251,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"SassBeautify",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/ashybaye/Desktop/workflows",
+		"/C/Users/ashybaye/Desktop/workflows/builds",
+		"/C/Users/ashybaye/Desktop/workflows/builds/production",
+		"/C/Users/ashybaye/Desktop/workflows/components",
+		"/C/Users/ashybaye/Desktop/workflows/components/sass",
+		"/C/Users/ashybaye/Desktop/workflows/components/scripts"
+	],
+	"file_history":
+	[
+		"/C/Users/ashybaye/AppData/Roaming/Sublime Text 3/Packages/SassBeautify/SassBeautify.sublime-settings",
+		"/C/Users/ashybaye/Desktop/workflows/components/sass/style.scss",
+		"/C/Users/ashybaye/Desktop/workflows/components/coffee/tagline.coffee",
+		"/C/Users/ashybaye/Desktop/workflows/components/scripts/rclick.js",
+		"/C/Users/ashybaye/Desktop/workflows/components/scripts/template.js",
+		"/C/Users/ashybaye/Desktop/workflows/components/scripts/pixgrid.js",
+		"/D/Work Documents/Tutorials/Lynda.com Courses/Ex_Files_WPW_GGB/Exercise Files/01_08/start/workflows/components/sass/style.scss",
+		"/D/Work Documents/Tutorials/Lynda.com Courses/Ex_Files_WPW_GGB/Exercise Files/01_07/finished/workflows/components/sass/style.scss",
+		"/C/Users/ashybaye/Desktop/workflows/builds/development/js/data.json",
+		"/D/Work Documents/Tutorials/Lynda.com Courses/Ex_Files_WPW_GGB/Exercise Files/01_06/finished/workflows/builds/development/js/data.json",
+		"/D/Work Documents/Tutorials/Lynda.com Courses/Ex_Files_WPW_GGB/Exercise Files/01_06/finished/workflows/components/scripts/template.js",
+		"/D/Work Documents/Tutorials/Lynda.com Courses/Ex_Files_WPW_GGB/Exercise Files/01_06/finished/workflows/components/scripts/rclick.js",
+		"/D/Work Documents/Tutorials/Lynda.com Courses/Ex_Files_WPW_GGB/Exercise Files/01_06/finished/workflows/components/scripts/pixgrid.js",
+		"/C/Users/ashybaye/Desktop/workflows/index.html",
+		"/C/Users/ashybaye/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/Work Documents/Tutorials/Lynda.com Courses/Ex_Files_WPW_GGB/Exercise Files/01_06/finished/workflows/components/coffee/tagline.coffee",
+		"/C/Users/ashybaye/Desktop/workflows/builds/development/index.html",
+		"/C/Users/ashybaye/AppData/Roaming/Sublime Text 3/Packages/Theme-Soda/Soda Light 3.sublime-theme",
+		"/C/Users/ashybaye/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "builds/development/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6798,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3800,
+								3800
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 345.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "components/sass/style.scss",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 251,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								251,
+								251
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 392,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								138,
+								138
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"default_dir": "C:\\Users\\ashybaye\\Desktop\\workflows",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/D/Work Documents/Tutorials/Lynda.com Courses/Ex_Files_WPW_GGB/Exercise Files/01_08/start/workflows/components/sass/style.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 251,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								251
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "workflows.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 372.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
